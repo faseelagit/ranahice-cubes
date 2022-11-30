@@ -1,0 +1,102 @@
+[09-Aug-2021 09:43:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628502261' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[09-Aug-2021 09:43:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[09-Aug-2021 09:43:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-09 09:43:21' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:00:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672518' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:00:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:00:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:00:58' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:02:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672582' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:02:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:02:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:02:02' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:02:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`dismissed` = 0
+	AND (start <= '2021-08-11 09:02:15' OR start IS NULL)
+	AND (end >= '2021-08-11 09:02:15' OR end IS NULL)
+	AND `notification_name` = 'deprecated-filters'
+ORDER BY start DESC, created DESC
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672595' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:02:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:02:15 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:02:15' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:02:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672601' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:02:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:02:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:02:21' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:02:30 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:30 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:02:30 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672610' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:02:30 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:02:30 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:02:30' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 09:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query UPDATE `wp_options` SET `option_value` = '1628672764' WHERE `option_name` = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 09:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 09:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 09:05:04' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[11-Aug-2021 12:22:55 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, update_option
+[11-Aug-2021 12:22:55 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT COUNT(DISTINCT claim_id) FROM wp_actionscheduler_actions WHERE claim_id != 0 AND status IN ( 'pending', 'in-progress') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Abstract_QueueRunner->has_maximum_concurrent_batches, ActionScheduler_DBStore->get_claim_count
+[11-Aug-2021 12:22:55 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT a.action_id FROM wp_actionscheduler_actions a WHERE 1=1 AND a.status='pending' AND a.scheduled_date_gmt <= '2021-08-11 12:22:55' LIMIT 0, 5 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_AsyncRequest_QueueRunner->maybe_dispatch, ActionScheduler_AsyncRequest_QueueRunner->allow, ActionScheduler_Store->has_pending_actions_due, ActionScheduler_DBStore->query_actions
+[15-Aug-2021 10:36:48 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[15-Aug-2021 10:36:48 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[15-Aug-2021 10:36:48 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[15-Aug-2021 10:36:48 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute

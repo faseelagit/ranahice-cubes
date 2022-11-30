@@ -1,0 +1,251 @@
+[12-Jul-2021 21:22:36 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[12-Jul-2021 21:22:36 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[07-Aug-2021 18:38:05 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[07-Aug-2021 18:38:05 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:16:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:16:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:18:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:18:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 04:18:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:18:40 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 04:18:41 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:18:41 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:19:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 04:19:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:08 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'description-format'
+	AND `notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:08 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:23 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:23 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 07:28:23 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:23 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 07:28:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'install-mi'
+	AND `notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 07:28:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[08-Aug-2021 07:28:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:28:54 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:30:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[08-Aug-2021 07:30:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 06:04:12 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 06:04:12 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 08:45:50 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	`p`.`ID`, `p`.`post_title`, `p`.`post_content`, `p`.`post_excerpt`, `p`.`post_type`, `p`.`post_password`, `p`.`post_parent`, `p`.`post_date_gmt`, `p`.`post_modified_gmt`, `ap`.`priority`, `ap`.`frequency`
+FROM wp_aioseo_notifications
+	LEFT JOIN wp_aioseo_posts as ap ON `ap`.`post_id` = `p`.`ID`
+WHERE 1 = 1 AND
+	`p`.`post_status` = 'publish'
+	AND p.post_type IN ( 'product' )
+	AND ( `ap`.`robots_noindex` IS NULL OR `ap`.`robots_default` = 1 OR `ap`.`robots_noindex` = 0 )
+	AND `notification_name` = 'deprecated-filters'
+ORDER BY `p`.`ID` ASC
+LIMIT 0, 1000
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 08:45:50 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:09:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:09:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[11-Aug-2021 09:09:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 09:09:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW COLUMNS FROM `wp_aioseo_notifications` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->model, AIOSEO\Plugin\Common\Models\Model->__construct, AIOSEO\Plugin\Common\Models\Model->getColumns, AIOSEO\Plugin\Common\Utils\Database->execute
+[11-Aug-2021 11:25:07 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[11-Aug-2021 11:25:07 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[16-Aug-2021 14:59:21 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, delete_user_option, delete_user_meta, delete_metadata
+[16-Aug-2021 14:59:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, delete_user_option, delete_user_meta, delete_metadata
+[16-Aug-2021 14:59:34 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Autoloader\jp75e44bb1769a41d7ab3f080ddf78bcc8\Shutdown_Handler->__invoke, Automattic\Jetpack\Autoloader\jp75e44bb1769a41d7ab3f080ddf78bcc8\Plugins_Handler->cache_plugins, set_transient, update_option
+[16-Aug-2021 14:59:34 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[16-Aug-2021 14:59:34 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
+[17-Aug-2021 05:05:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, delete_user_option, delete_user_meta, delete_metadata
+[17-Aug-2021 05:05:05 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[17-Aug-2021 05:05:05 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
+[17-Aug-2021 05:13:20 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, delete_user_option, delete_user_meta, delete_metadata
+[18-Aug-2021 07:38:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[18-Aug-2021 07:38:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
+[19-Aug-2021 07:36:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, Yoast_Notification_Center->remove_storage, delete_user_option, delete_user_meta, delete_metadata
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/11/neve-facebook.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/11/neve-googleplus.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/11/neve-instagram.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/11/neve-play.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/11/neve-twitter.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/neve-chart-up-1.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/neve-phone-1.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/neve-photography-1.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:48 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/neve-user-1.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:49 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/nv-1.jpg" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:49 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/nv-4-300x300.jpg" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:49 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/nv-4.jpg" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:43:49 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2018/12/nv-6.jpg" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:26 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone-1-150x150.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:27 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone-1-300x300.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:28 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone-1.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:29 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone-150x150.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:29 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone-300x300.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:31 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/phone.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:45:32 UTC] WebP Converter for Media: Image "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/pict-phone-call-ivr-phones-vector-stencils-library.png-diagram-flowchart-example.png" converted to WebP is larger than original and has been deleted.
+[23-Aug-2021 06:48:16 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-scaled.webp".
+[23-Aug-2021 06:48:23 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-scaled.webp".
+[23-Aug-2021 06:48:23 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-300x150.webp".
+[23-Aug-2021 06:48:23 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-1024x512.webp".
+[23-Aug-2021 06:48:23 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-150x150.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-scaled.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-300x150.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-1024x512.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-150x150.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-768x384.webp".
+[23-Aug-2021 06:48:35 UTC] WebP Converter for Media: Unsupported extension "webp" for file "/home/u345576959/domains/ranahicecubes.com/public_html/wp-content/uploads/2021/08/Ranah-ice-cubes-_2_-1536x768.webp".

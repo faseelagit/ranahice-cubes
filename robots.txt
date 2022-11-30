@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:https://ranahicecubes.com/sitemap_index.xml

@@ -1,0 +1,24 @@
+[18/Aug/2021:13:51:34] (I): WordPress Instance Info:
+[18/Aug/2021:13:51:34] (I): Home URL : https://ranahicecubes.com
+[18/Aug/2021:13:51:34] (I): Site URL : https://ranahicecubes.com
+[18/Aug/2021:13:51:34] (I): WordPress Version : 5.8
+[18/Aug/2021:13:51:34] (I): Onboarding Version : 1.1.16
+[18/Aug/2021:13:51:34] (I): Multisite : No
+[18/Aug/2021:13:51:34] (I): Server Info : LiteSpeed
+[18/Aug/2021:13:51:34] (I): PHP Version : 7.4.15
+[18/Aug/2021:13:51:34] (I): HTTPS : Yes
+[18/Aug/2021:13:51:34] (I): PHP Max Execution Time : 120
+[18/Aug/2021:13:51:34] (I): PHP Max Input Vars : 5000
+[18/Aug/2021:13:51:34] (I): Max Upload Size : 268435456
+[18/Aug/2021:13:51:34] (I): Plugins:
+[18/Aug/2021:13:51:34] (I): [PLUGIN] All-in-One WP Migration : v7.46 (ServMask)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Google Tag Manager for Wordpress : v1.13.1 (Thomas Geiger)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Elementor : v3.3.1 (Elementor.com)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] LiteSpeed Cache : v4.2 (LiteSpeed Technologies)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Premium Addons for Elementor : v4.4.7 (Leap13)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Templates Patterns Collection : v1.1.16 (ThemeIsle)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Orbit Fox Companion : v2.10.7 (Themeisle)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] WooCommerce : v5.5.2 (Automattic)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Yoast SEO : v16.9 (Team Yoast)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] Smush : v3.8.8 (WPMU DEV)
+[18/Aug/2021:13:51:34] (I): [PLUGIN] WPForms Lite : v1.6.8.1 (WPForms)
